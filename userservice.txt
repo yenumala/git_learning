@@ -1,1 +1,2 @@
 accepet the data from user.
+process the data.
